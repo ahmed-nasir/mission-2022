@@ -94,6 +94,28 @@ a:hover{
      width: 250px;
  }
 
+ .skill{
+
+    width: 80%;
+    margin: 0px auto;
+
+ } 
+
+ #text{
+     text-align: center;
+ }
+
+ #last_image{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ }
+ #last_image img{
+    width: 700px;
+    /* margin: 0px auto; */
+ }
+
  footer{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -104,3 +126,5 @@ a:hover{
      text-align: center;
      margin-top: 50px;
  }
+
+ 
