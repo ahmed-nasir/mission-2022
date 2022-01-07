@@ -100,7 +100,10 @@ a:hover{
     margin: 0px auto;
 
  } 
-
+ #sk{
+     width: 1300px;
+     margin: auto;
+ }
  #text{
      text-align: center;
  }
